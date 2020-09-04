@@ -58,7 +58,7 @@ setup_dict = dict(
             "google-cloud-storage",
         ]
     },
-    python_requires=">=3.7.0",
+    python_requires=">=3.6.0",
     # indicate that we have type information
     package_data={"blobfile": ["*.pyi", "py.typed"]},
     # mypy cannot find type information in zip files
