@@ -1,5 +1,5 @@
 # https://mypy.readthedocs.io/en/stable/common_issues.html#using-classes-that-are-generic-in-stubs-but-not-at-runtime
-from __future__ import annotations
+#from __future__ import annotations
 
 import datetime
 import os
